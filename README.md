@@ -4,7 +4,7 @@
 
     Javascript is one of the core technologies of the web, alongside HTML & CSS.
 
-    It is a hight-level, interpreted programming language & Dynamically typed language that can be used on the client side as well as the server-sde with Node.js
+    It is a hight-level, interpreted programming language & Dynamically typed language that can be used on the client side as well as the server-side with Node.js
 
 2. ##### What is Javascript used for?
 
@@ -53,3 +53,16 @@
     * Functions
 
 ------------------END OF DAY-01------------------------------------
+------------------START OF DAY-02------------------------------------
+### Type Conversions
+
+- To check Datatype of any variable , we can use ```typeof```
+- parseInt [str to int]
+- +string of the variable name [str to int]
+- Number(str name) [str to int]
+- variableName.toString() [int to str]
+- parseFloat(variableName) [int to decimals]
+
+### Operators
+
+- +, - , *, /, %
