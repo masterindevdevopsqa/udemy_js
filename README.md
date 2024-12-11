@@ -52,7 +52,8 @@
     * Arrays
     * Functions
 
-------------------END OF DAY-01------------------------------------ <br>
+------------------END OF DAY-01------------------------------------ 
+<br>
 ------------------START OF DAY-02------------------------------------
 ### Type Conversions
 
@@ -66,3 +67,23 @@
 ### Operators
 
 - +, - , *, /, %
+- Concatenation (+)
+- Exponent (**)
+- Increment (++)
+- Decrement (--)
+- Assignment (=)
+- Comparison ( == ), (===), (!=), (>), (<), (>=), (<=)
+
+### Type Coercion
+
+```
+let x
+x = 5
+x = 5 + '5'
+x = 5 + +5
+x = 5 * '5'
+x = 5 + null
+x = 5 + true
+x = 5 + false
+x = 5 + undefined
+```
